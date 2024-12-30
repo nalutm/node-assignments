@@ -1,8 +1,4 @@
-# Node.js Assignments
-
-My solutions to assignments from the [Node.js course by Maximilian Schwarzmüller](https://www.udemy.com/course/nodejs-the-complete-guide/?couponCode=KEEPLEARNINGBR).
-
-## The Basics
+# The Basics Assignment
 
 1. Spin up a Node.js-driven Server (on port 3000)
 2. Handle two Routes: "/" and "/users"
