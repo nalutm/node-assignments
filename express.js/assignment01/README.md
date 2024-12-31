@@ -1,4 +1,4 @@
-# Express assignment01
+# Express assignment 01
 
 1. Create a npm project and install Express.js (Nodemon if you want)
 2. Create an Express.js app which funnels the requests through 2 middleware functions that log something to the console and return one response

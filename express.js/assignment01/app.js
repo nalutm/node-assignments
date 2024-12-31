@@ -19,7 +19,7 @@ app.use('/users', (req, res, next) => {
 });
 
 app.use('/', (req, res, next) => {
-    res.send('<h1>Working on Express.js assignment 01! (: </h1>')
+    res.send('<h1>Working on Express.js assignment 01! (:</h1>')
 });
 
 app.listen(3000);
