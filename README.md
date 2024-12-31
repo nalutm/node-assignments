@@ -11,7 +11,7 @@ My solutions to assignments from the [Node.js course by Maximilian Schwarzmülle
 3. Add a form with a "username" `<inpu>`to the "/" page and submit a POST request to "/create-user" upon a button click
 4. Add the "/create-user" route and parse the incoming data (i.e. the username) and simply log it to the console
 
-## Express assignment 01
+## Express Assignment 01
 
 1. Create a npm project and install Express.js (Nodemon if you want)
 2. Create an Express.js app which funnels the requests through 2 middleware functions that log something to the console and return one response
